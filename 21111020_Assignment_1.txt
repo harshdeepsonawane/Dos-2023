@@ -1,0 +1,19 @@
+a)Breif Summary about Saas, Paas, Iaas and Iaac.
+
+Software As a Service:
+SaaS stands for Software as a Service, and it refers to the delivery of software applications over the internet through a subscription-based model. This means that instead of buying and installing software on your computer or server, you can access it online through a web browser.
+One of the most popular examples of SaaS is Salesforce, a cloud-based customer relationship management (CRM) software that allows businesses to manage their customer interactions and sales processes. Another example is Dropbox, a cloud storage platform that allows users to store, share, and collaborate on files online.
+Other popular SaaS applications include Google Workspace (formerly G Suite), a suite of productivity tools such as Gmail, Google Drive, and Google Docs; HubSpot, an all-in-one marketing, sales, and customer service platform; and Slack, a team communication and collaboration tool.
+SaaS has become a popular choice for businesses because it offers flexibility, scalability, and cost-effectiveness. It allows companies to access the latest software and updates without having to invest in hardware or IT infrastructure.
+
+Platform As a Service:
+Platform as a Service (PaaS) is a cloud computing model that provides developers with a platform to build, run, and manage applications without the complexity of infrastructure management. PaaS offers a complete development and deployment environment in the cloud, including software development tools, middleware, and operating systems.
+PaaS can help developers reduce the time and effort required to build and deploy applications. By eliminating the need for infrastructure management, developers can focus on writing code and building applications. Additionally, PaaS can help reduce costs by allowing developers to pay for only the resources they use.
+Some examples of PaaS providers include Microsoft Azure, Amazon Web Services (AWS) Elastic Beanstalk, Heroku, Google App Engine, and IBM Bluemix. These providers offer a range of services and tools to help developers build, deploy, and manage applications, including support for popular programming languages like Java, Python, and Ruby.
+
+Infrastructure As a Service:
+Infrastructure as a Service (IaaS) is a cloud computing model that provides virtualized computing resources over the internet. In this model, users rent computing infrastructure from a third-party provider, which takes care of the underlying hardware, storage, and networking.
+IaaS allows users to rapidly scale up or down their computing resources according to their needs. It provides users with flexibility and control over their computing infrastructure, allowing them to customize their virtual machines and storage systems.
+Examples of IaaS providers include Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform, and IBM Cloud. These providers offer a variety of virtualized computing resources, such as virtual machines, storage, and networking services.
+For instance, AWS provides Elastic Compute Cloud (EC2), a web service that allows users to launch virtual servers in the cloud. Azure offers Virtual Machines, which provide users with a range of Linux and Windows operating systems to choose from. Google Cloud Platform offers Compute Engine, a service that allows users to launch virtual machines with custom configurations.
+IaaS is ideal for businesses and organizations that require significant computing power, but do not want to invest in and manage their own physical hardware. It allows these organizations to focus on their core business activities, while leaving the management of their computing infrastructure to the IaaS provider.
